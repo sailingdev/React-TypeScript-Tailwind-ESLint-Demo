@@ -43,5 +43,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 https://dev.to/kevin_odongo35/react-tailwind-and-typescript-35hk
+https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba
 
 To learn React, check out the [React documentation](https://reactjs.org/).
