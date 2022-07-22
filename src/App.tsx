@@ -1,13 +1,9 @@
 import React from 'react';
-import Routes from './routes/Routes';
 import './App.css';
+import MainRoute from './routes/MainRoute';
 
 function App() {
-  return (
-    <div>
-      <Routes />
-    </div>
-  );
+  return <MainRoute></MainRoute>;
 }
 
 export default App;
